@@ -1,0 +1,9 @@
+<%
+function writeData()
+
+
+end function
+
+
+
+%>
